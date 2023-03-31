@@ -1,2 +1,2 @@
-��#� �L�i�b�r�a�r�y�
+Library
 https://harmonious-pastelito-07052d.netlify.app/
